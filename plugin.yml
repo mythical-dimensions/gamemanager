@@ -1,0 +1,11 @@
+name: gamemanager
+main: tk.mythicaldimensions.gamemanager.GamemanagerPlugin
+version: 0.0.0.0
+api-version: 1.15
+author: [Empty]
+description: a minigame manangment plugin
+depend: [mythicalEssentials]
+loadbefore: [scpsl]
+commands:
+   gamemanager:
+      description: Base GM command
